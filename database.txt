@@ -1,0 +1,7 @@
+Name    empid    Age    Place
+Raji    20011     35    Blore
+suma    20012     41    Mlore
+siva    20032     39    sira
+Ramu    20044     44    span
+Rafi    20018     21    Blore
+
